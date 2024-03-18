@@ -6,6 +6,7 @@ public class Principal1 {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Olá, mundo!");
 		/* 1
 		//___________________________________________
 		System.out.println("Hello, world!"); //Pula linha automaticamente e não permite a formatação de texto com especificadores de formato
